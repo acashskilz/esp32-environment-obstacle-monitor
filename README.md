@@ -16,6 +16,9 @@ This repository contains a firmware implementation for the ESP32 using the ESP-I
 - `main/main.c`: Core application logic and custom drivers.
 - `main/CMakeLists.txt`: Build configuration for the main component.
 
+# Working Video
+https://github.com/user-attachments/assets/d51ca68c-1644-4c71-8a4b-8156961350be
+
 Component,        Pin,       
 DHT11 (Data),    GPIO 4
 IR Sensor (Out), GPIO 27
